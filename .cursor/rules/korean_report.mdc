@@ -1,0 +1,20 @@
+---
+description: Korean reporting rule for this repository
+alwaysApply: true
+---
+
+# Korean Reporting Rule
+
+All user-facing explanations, task summaries, implementation reports, review comments, and final responses must be written in Korean honorific style.
+
+Keep code, identifiers, file paths, CLI commands, package names, configuration keys, logs, and error messages in English.
+
+When completing any task, always include the following sections in Korean:
+
+1. 변경한 파일
+2. 수행한 작업
+3. 테스트 결과
+4. 남은 문제 또는 주의사항
+5. 다음 추천 작업
+
+Do not translate source code, file names, function names, class names, package names, CLI commands, or raw error messages.
